@@ -1,0 +1,100 @@
+body {
+    margin: 26;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('imagens/download\ fundssss.jpg');
+    background-size: cover;
+    background-position: right;
+    color: #fff;
+}
+
+header {
+    
+    background-color: rgba(15, 5, 146, 0.671);
+    padding: 90px;
+    
+
+}
+
+.login {
+    text-align: right;
+}
+
+h1 {
+    font-size: 20px;
+    margin: 0;
+}
+
+main {
+    text-align: center;
+    margin: 80px 0;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #fff;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 28px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 14px;
+    margin: 0;
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 20px; /* Defina a largura desejada para o logotipo */
+    height: auto; /* A altura é ajustada automaticamente para manter a proporção da imagem */
+}
+
+/* Outros estilos para o seu site */
+
+} 
+header {/* Estilos do logotipo e título no cabeçalho */
+    header {
+        display: flex;
+        align-items: center;
+    }
+    
+    .logo img {
+        width: 80px; /* Defina o tamanho desejado para o logotipo */
+        height: auto; /* A altura é ajustada automaticamente para manter a proporção da imagem */
+        margin-right: 10px; /* Espaço entre o logotipo e o título */
+    }
+    
+    h1 {
+        font-size: 90px; /* Tamanho do título */
+        margin: 30; /* Remover margem padrão do título */
+    }
+    }
+/* Estilos do cabeçalho e logotipo */
+header {
+    background-color: #53007900; /* Cor de fundo do cabeçalho */
+    color: #fff; /* Cor do texto no cabeçalho */
+    padding: 25px; /* Espaçamento interno do cabeçalho */
+    text-align: center;
+}
+
+.logo img {
+    max-width: 200px; /* Defina o tamanho máximo para o logotipo */
+    height: auto; /* A altura é ajustada automaticamente para manter a proporção da imagem */
+}
+img {
+    margin-right: 40px;
+}
+img {
+    margin-right: 30px;
+}
+#meu-titulo {
+    font-size: 90px; /* Tamanho da fonte em pixels */
+}
+.imagem-com-espaco {
+    margin-right: 25px; /* Adiciona uma margem à direita de cada imagem */
+}
